@@ -46,6 +46,11 @@
       "value": "",
       "required": false
     },
+    "DATABASE_URL": {
+      "description": "Heroku heroku postgresql",
+      "value": "",
+      "required": false
+    },
     "PROTECT_CONTENT": {
       "description": "Protect contents from getting forwarded",
       "value": "False",
